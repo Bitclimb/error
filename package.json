@@ -1,5 +1,5 @@
 {
-  "name": "@bitclimb/error",
+  "name": "bitclimb-error",
   "version": "1.0.0",
   "description": "Bitclimb error handler and readable stack trace",
   "main": "index.js",
